@@ -2,7 +2,7 @@
   "results": [
     {
       "logo": "000webhost.com.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -25,8 +25,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 34494
     },
     {
@@ -48,6 +49,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -55,6 +57,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 318
     },
     {
@@ -62,6 +65,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -69,6 +73,7 @@
       "height": 64,
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 16958
     },
     {
@@ -76,6 +81,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -83,11 +89,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1457
     },
     {
       "logo": "8tracks.com.png",
-      "height": 16,
+      "height": 256,
       "images": [
         {
           "height": 16,
@@ -114,8 +121,9 @@
           "width": 256
         }
       ],
-      "width": 16,
+      "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 370070
     },
     {
@@ -123,6 +131,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -130,6 +139,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 47560
     },
     {
@@ -137,6 +147,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 846
     },
     {
@@ -144,6 +155,7 @@
       "height": 11,
       "width": 16,
       "type": "png",
+      "dimensions": "16×11",
       "size": 2134
     },
     {
@@ -151,6 +163,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -158,6 +171,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 25448
     },
     {
@@ -165,11 +179,12 @@
       "height": 48,
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 9662
     },
     {
       "logo": "adult-fanfiction.org.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -180,8 +195,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 3638
     },
     {
@@ -189,6 +205,7 @@
       "height": 16,
       "width": 16,
       "type": "bmp",
+      "dimensions": "16×16",
       "size": 568
     },
     {
@@ -196,6 +213,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 318
     },
     {
@@ -203,6 +221,7 @@
       "height": 64,
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 16958
     },
     {
@@ -210,6 +229,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 3385
     },
     {
@@ -217,11 +237,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1030
     },
     {
       "logo": "amartfurniture.com.au.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -244,8 +265,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 34494
     },
     {
@@ -253,6 +275,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2132
     },
     {
@@ -260,6 +283,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -267,6 +291,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1653
     },
     {
@@ -274,6 +299,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2157
     },
     {
@@ -281,6 +307,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1538
     },
     {
@@ -288,6 +315,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1998
     },
     {
@@ -295,6 +323,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 913
     },
     {
@@ -302,6 +331,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1091
     },
     {
@@ -309,6 +339,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1453
     },
     {
@@ -316,6 +347,7 @@
       "height": 72,
       "width": 73,
       "type": "png",
+      "dimensions": "73×72",
       "size": 774
     },
     {
@@ -323,6 +355,7 @@
       "height": 512,
       "width": 512,
       "type": "gif",
+      "dimensions": "512×512",
       "size": 5341
     },
     {
@@ -330,11 +363,12 @@
       "height": 113,
       "width": 112,
       "type": "png",
+      "dimensions": "112×113",
       "size": 4307
     },
     {
       "logo": "astoriacompany.com.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -357,8 +391,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 34494
     },
     {
@@ -366,11 +401,12 @@
       "height": 256,
       "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 3327
     },
     {
       "logo": "autocentrum.pl.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -393,8 +429,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 34494
     },
     {
@@ -402,11 +439,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
       "logo": "avast.com.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -421,8 +459,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 7886
     },
     {
@@ -430,11 +469,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 712
     },
     {
       "logo": "babynames.com.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -457,8 +497,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 34494
     },
     {
@@ -466,6 +507,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4158
     },
     {
@@ -473,6 +515,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -480,6 +523,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -487,11 +531,12 @@
       "height": 128,
       "width": 128,
       "type": "ico",
+      "dimensions": "128×128",
       "size": 67646
     },
     {
       "logo": "bell.ca.png",
-      "height": 32,
+      "height": 192,
       "images": [
         {
           "height": 32,
@@ -514,8 +559,9 @@
           "width": 192
         }
       ],
-      "width": 32,
+      "width": 192,
       "type": "ico",
+      "dimensions": "192×192",
       "size": 73758
     },
     {
@@ -523,6 +569,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1226
     },
     {
@@ -530,11 +577,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
       "logo": "bhinneka.com.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -557,8 +605,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 41566
     },
     {
@@ -566,6 +615,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 588
     },
     {
@@ -573,6 +623,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -590,11 +641,12 @@
       ],
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 2550
     },
     {
       "logo": "bitly.com.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -605,8 +657,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -614,6 +667,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 420
     },
     {
@@ -621,6 +675,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 3262
     },
     {
@@ -628,6 +683,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 318
     },
     {
@@ -635,6 +691,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
@@ -642,11 +699,12 @@
       "height": 150,
       "width": 150,
       "type": "jpg",
+      "dimensions": "150×150",
       "size": 30091
     },
     {
       "logo": "bombuj.eu.png",
-      "height": 16,
+      "height": 256,
       "images": [
         {
           "height": 16,
@@ -673,8 +731,9 @@
           "width": 256
         }
       ],
-      "width": 16,
+      "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 101710
     },
     {
@@ -682,6 +741,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 550
     },
     {
@@ -689,11 +749,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
       "logo": "bookmate.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -708,8 +769,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -717,6 +779,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 335
     },
     {
@@ -724,6 +787,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 304
     },
     {
@@ -731,6 +795,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 616
     },
     {
@@ -738,11 +803,12 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 339
     },
     {
       "logo": "btc-alpha.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -757,8 +823,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -766,6 +833,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 912
     },
     {
@@ -773,6 +841,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -780,11 +849,12 @@
       "height": 96,
       "width": 96,
       "type": "png",
+      "dimensions": "96×96",
       "size": 2758
     },
     {
       "logo": "cafemom.com.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -807,8 +877,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 34494
     },
     {
@@ -816,6 +887,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 894
     },
     {
@@ -837,6 +909,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 7406
     },
     {
@@ -844,6 +917,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1524
     },
     {
@@ -851,6 +925,7 @@
       "height": 25,
       "width": 26,
       "type": "png",
+      "dimensions": "26×25",
       "size": 1637
     },
     {
@@ -858,6 +933,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -865,6 +941,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 775
     },
     {
@@ -872,6 +949,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1586
     },
     {
@@ -889,6 +967,7 @@
       ],
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -910,6 +989,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -917,6 +997,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -942,6 +1023,7 @@
       ],
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 32988
     },
     {
@@ -949,6 +1031,7 @@
       "height": 240,
       "width": 240,
       "type": "png",
+      "dimensions": "240×240",
       "size": 9069
     },
     {
@@ -956,6 +1039,7 @@
       "height": 96,
       "width": 96,
       "type": "png",
+      "dimensions": "96×96",
       "size": 1695
     },
     {
@@ -963,6 +1047,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 730
     },
     {
@@ -970,6 +1055,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 490
     },
     {
@@ -977,6 +1063,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -984,6 +1071,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 528
     },
     {
@@ -991,6 +1079,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 910
     },
     {
@@ -998,11 +1087,12 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
       "logo": "comcast.net.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -1021,8 +1111,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 11078
     },
     {
@@ -1048,6 +1139,7 @@
       ],
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 32988
     },
     {
@@ -1055,6 +1147,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2675
     },
     {
@@ -1062,11 +1155,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
       "logo": "cracked.to.png",
-      "height": 16,
+      "height": 256,
       "images": [
         {
           "height": 16,
@@ -1089,8 +1183,9 @@
           "width": 256
         }
       ],
-      "width": 16,
+      "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 30149
     },
     {
@@ -1098,6 +1193,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1105,6 +1201,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1423
     },
     {
@@ -1112,6 +1209,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
@@ -1119,6 +1217,7 @@
       "height": 36,
       "width": 36,
       "type": "png",
+      "dimensions": "36×36",
       "size": 687
     },
     {
@@ -1126,6 +1225,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 1041
     },
     {
@@ -1133,6 +1233,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1140,6 +1241,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 15293
     },
     {
@@ -1147,6 +1249,7 @@
       "height": 16,
       "width": 16,
       "type": "jpg",
+      "dimensions": "16×16",
       "size": 569
     },
     {
@@ -1154,6 +1257,7 @@
       "height": 196,
       "width": 196,
       "type": "png",
+      "dimensions": "196×196",
       "size": 28740
     },
     {
@@ -1161,6 +1265,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1932
     },
     {
@@ -1168,11 +1273,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
       "logo": "deezer.com.png",
-      "height": 32,
+      "height": 48,
       "images": [
         {
           "height": 32,
@@ -1187,8 +1293,9 @@
           "width": 16
         }
       ],
-      "width": 32,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -1196,6 +1303,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2204
     },
     {
@@ -1203,6 +1311,7 @@
       "height": 70,
       "width": 65,
       "type": "png",
+      "dimensions": "65×70",
       "size": 2002
     },
     {
@@ -1210,6 +1319,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -1217,6 +1327,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1224,6 +1335,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 1057
     },
     {
@@ -1231,6 +1343,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1238,6 +1351,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1245,6 +1359,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 318
     },
     {
@@ -1252,6 +1367,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 631
     },
     {
@@ -1259,6 +1375,7 @@
       "height": 50,
       "width": 50,
       "type": "png",
+      "dimensions": "50×50",
       "size": 746
     },
     {
@@ -1266,6 +1383,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 1266
     },
     {
@@ -1273,11 +1391,12 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
       "logo": "ducks.org.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -1288,8 +1407,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -1297,6 +1417,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 1243
     },
     {
@@ -1304,11 +1425,12 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
       "logo": "eatigo.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -1323,8 +1445,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -1346,6 +1469,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -1353,6 +1477,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1360,6 +1485,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -1367,6 +1493,7 @@
       "height": 100,
       "width": 100,
       "type": "ico",
+      "dimensions": "100×100",
       "size": 41662
     },
     {
@@ -1374,6 +1501,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 669
     },
     {
@@ -1381,6 +1509,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2218
     },
     {
@@ -1388,6 +1517,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1395,6 +1525,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1402,6 +1533,7 @@
       "height": 96,
       "width": 96,
       "type": "ico",
+      "dimensions": "96×96",
       "size": 38078
     },
     {
@@ -1409,6 +1541,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1739
     },
     {
@@ -1416,6 +1549,7 @@
       "height": 48,
       "width": 48,
       "type": "png",
+      "dimensions": "48×48",
       "size": 1887
     },
     {
@@ -1423,11 +1557,12 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 396
     },
     {
       "logo": "eyeem.com.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -1438,8 +1573,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 6518
     },
     {
@@ -1447,6 +1583,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1454,6 +1591,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 14491
     },
     {
@@ -1461,11 +1599,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1055
     },
     {
       "logo": "fashionfantasygame.com.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -1476,8 +1615,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 3638
     },
     {
@@ -1485,6 +1625,7 @@
       "height": 200,
       "width": 200,
       "type": "png",
+      "dimensions": "200×200",
       "size": 223
     },
     {
@@ -1492,11 +1633,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
       "logo": "flashflashrevolution.com.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -1507,8 +1649,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 3638
     },
     {
@@ -1516,11 +1659,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
       "logo": "fling.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -1535,8 +1679,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -1544,6 +1689,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 977
     },
     {
@@ -1551,6 +1697,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1558,6 +1705,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 576
     },
     {
@@ -1565,6 +1713,7 @@
       "height": 48,
       "width": 48,
       "type": "png",
+      "dimensions": "48×48",
       "size": 924
     },
     {
@@ -1572,11 +1721,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
       "logo": "forumcommunity.net.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -1587,8 +1737,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -1596,6 +1747,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 392
     },
     {
@@ -1603,6 +1755,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1357
     },
     {
@@ -1610,6 +1763,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2121
     },
     {
@@ -1617,6 +1771,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
@@ -1624,6 +1779,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2445
     },
     {
@@ -1631,11 +1787,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
       "logo": "furaffinity.net.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -1646,8 +1803,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 3638
     },
     {
@@ -1655,6 +1813,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1662,11 +1821,12 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
       "logo": "gamerzplanet.net.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -1681,8 +1841,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -1690,6 +1851,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 3367
     },
     {
@@ -1697,6 +1859,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
@@ -1704,11 +1867,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2959
     },
     {
       "logo": "gemini.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -1723,8 +1887,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -1732,6 +1897,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1739,6 +1905,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -1746,6 +1913,7 @@
       "height": 30,
       "width": 30,
       "type": "ico",
+      "dimensions": "30×30",
       "size": 2942
     },
     {
@@ -1767,6 +1935,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -1774,6 +1943,7 @@
       "height": 150,
       "width": 150,
       "type": "png",
+      "dimensions": "150×150",
       "size": 13305
     },
     {
@@ -1781,6 +1951,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1788,6 +1959,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 1003
     },
     {
@@ -1795,6 +1967,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1224
     },
     {
@@ -1816,11 +1989,12 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
       "logo": "gravatar.com.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -1831,8 +2005,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -1840,6 +2015,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 27555
     },
     {
@@ -1847,11 +2023,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 451
     },
     {
       "logo": "guntrader.uk.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -1862,8 +2039,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -1871,6 +2049,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 195
     },
     {
@@ -1892,6 +2071,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -1899,6 +2079,7 @@
       "height": 32,
       "width": 32,
       "type": "jpg",
+      "dimensions": "32×32",
       "size": 784
     },
     {
@@ -1906,6 +2087,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1913,6 +2095,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1920,6 +2103,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 736
     },
     {
@@ -1927,6 +2111,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 407
     },
     {
@@ -1934,6 +2119,7 @@
       "height": 64,
       "width": 64,
       "type": "png",
+      "dimensions": "64×64",
       "size": 1284
     },
     {
@@ -1941,6 +2127,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1385
     },
     {
@@ -1948,6 +2135,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 493
     },
     {
@@ -1955,6 +2143,7 @@
       "height": 48,
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 9662
     },
     {
@@ -1962,6 +2151,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -1969,6 +2159,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2740
     },
     {
@@ -1976,6 +2167,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 825
     },
     {
@@ -1983,6 +2175,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1041
     },
     {
@@ -1990,6 +2183,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1749
     },
     {
@@ -1997,6 +2191,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2155
     },
     {
@@ -2004,6 +2199,7 @@
       "height": 143,
       "width": 143,
       "type": "png",
+      "dimensions": "143×143",
       "size": 12859
     },
     {
@@ -2011,6 +2207,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 24517
     },
     {
@@ -2018,6 +2215,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2025,6 +2223,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 512
     },
     {
@@ -2032,6 +2231,7 @@
       "height": 789,
       "width": 923,
       "type": "png",
+      "dimensions": "923×789",
       "size": 57987
     },
     {
@@ -2039,6 +2239,7 @@
       "height": 33,
       "width": 33,
       "type": "png",
+      "dimensions": "33×33",
       "size": 931
     },
     {
@@ -2072,6 +2273,7 @@
       ],
       "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 106124
     },
     {
@@ -2117,6 +2319,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 25214
     },
     {
@@ -2124,6 +2327,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1369
     },
     {
@@ -2141,6 +2345,7 @@
       ],
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5558
     },
     {
@@ -2158,6 +2363,7 @@
       ],
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 8348
     },
     {
@@ -2165,6 +2371,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2172,6 +2379,7 @@
       "height": 53,
       "width": 53,
       "type": "png",
+      "dimensions": "53×53",
       "size": 4901
     },
     {
@@ -2179,6 +2387,7 @@
       "height": 64,
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 16958
     },
     {
@@ -2186,6 +2395,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2193,6 +2403,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1055
     },
     {
@@ -2200,6 +2411,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 3993
     },
     {
@@ -2207,6 +2419,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 2140
     },
     {
@@ -2214,6 +2427,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 778
     },
     {
@@ -2221,11 +2435,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
       "logo": "last.fm.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -2236,8 +2451,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 6518
     },
     {
@@ -2245,6 +2461,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 945
     },
     {
@@ -2266,6 +2483,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 12014
     },
     {
@@ -2287,6 +2505,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -2294,11 +2513,12 @@
       "height": 300,
       "width": 300,
       "type": "png",
+      "dimensions": "300×300",
       "size": 1142
     },
     {
       "logo": "lifebear.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -2317,8 +2537,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 17542
     },
     {
@@ -2326,11 +2547,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1719
     },
     {
       "logo": "linkedin.com.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -2349,8 +2571,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 24838
     },
     {
@@ -2358,6 +2581,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1802
     },
     {
@@ -2365,6 +2589,7 @@
       "height": 48,
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 9662
     },
     {
@@ -2372,6 +2597,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 796
     },
     {
@@ -2421,6 +2647,7 @@
       ],
       "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 194719
     },
     {
@@ -2428,11 +2655,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 3247
     },
     {
       "logo": "lookbook.nu.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -2443,8 +2671,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 3638
     },
     {
@@ -2452,6 +2681,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -2459,6 +2689,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 938
     },
     {
@@ -2466,6 +2697,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 557
     },
     {
@@ -2473,6 +2705,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2494,11 +2727,12 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 7406
     },
     {
       "logo": "mail.ru.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -2513,8 +2747,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 22382
     },
     {
@@ -2522,6 +2757,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2529,6 +2765,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2546,6 +2783,7 @@
       ],
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -2553,6 +2791,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
@@ -2560,6 +2799,7 @@
       "height": 128,
       "width": 128,
       "type": "png",
+      "dimensions": "128×128",
       "size": 4859
     },
     {
@@ -2567,6 +2807,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2574,6 +2815,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 291
     },
     {
@@ -2595,11 +2837,12 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 12014
     },
     {
       "logo": "mathway.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -2614,13 +2857,14 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
       "logo": "mcbans.com.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -2671,8 +2915,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 61798
     },
     {
@@ -2680,6 +2925,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 584
     },
     {
@@ -2701,11 +2947,12 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
       "logo": "mgmresorts.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -2720,8 +2967,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -2729,6 +2977,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 27545
     },
     {
@@ -2736,6 +2985,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 593
     },
     {
@@ -2757,11 +3007,12 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
       "logo": "mmgfusion.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -2776,8 +3027,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -2785,6 +3037,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2792,6 +3045,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 12044
     },
     {
@@ -2799,6 +3053,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2820,6 +3075,7 @@
       ],
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 22382
     },
     {
@@ -2827,6 +3083,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -2834,6 +3091,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2855,6 +3113,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -2862,6 +3121,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2869,11 +3129,12 @@
       "height": 128,
       "width": 128,
       "type": "png",
+      "dimensions": "128×128",
       "size": 3405
     },
     {
       "logo": "myheritage.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -2888,8 +3149,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 3138
     },
     {
@@ -2915,6 +3177,7 @@
       ],
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 32988
     },
     {
@@ -2922,6 +3185,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
@@ -2929,6 +3193,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2936,6 +3201,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2119
     },
     {
@@ -2943,6 +3209,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -2950,6 +3217,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 3187
     },
     {
@@ -2957,11 +3225,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1741
     },
     {
       "logo": "nextgenupdate.com.png",
-      "height": 16,
+      "height": 256,
       "images": [
         {
           "height": 16,
@@ -2988,8 +3257,9 @@
           "width": 256
         }
       ],
-      "width": 16,
+      "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 370070
     },
     {
@@ -2997,6 +3267,7 @@
       "height": 128,
       "width": 128,
       "type": "png",
+      "dimensions": "128×128",
       "size": 3537
     },
     {
@@ -3004,6 +3275,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
@@ -3011,6 +3283,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3056,6 +3329,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 25214
     },
     {
@@ -3063,6 +3337,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 510
     },
     {
@@ -3070,6 +3345,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 894
     },
     {
@@ -3077,6 +3353,7 @@
       "height": 80,
       "width": 80,
       "type": "png",
+      "dimensions": "80×80",
       "size": 4119
     },
     {
@@ -3084,6 +3361,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3091,6 +3369,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3098,6 +3377,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3105,6 +3385,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1763
     },
     {
@@ -3112,11 +3393,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 590
     },
     {
       "logo": "payasugym.com.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -3139,8 +3421,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 34494
     },
     {
@@ -3148,6 +3431,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3155,6 +3439,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3162,6 +3447,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2088
     },
     {
@@ -3169,6 +3455,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3176,6 +3463,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 16596
     },
     {
@@ -3183,6 +3471,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1894
     },
     {
@@ -3190,6 +3479,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3197,6 +3487,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3204,6 +3495,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2293
     },
     {
@@ -3211,6 +3503,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3218,11 +3511,12 @@
       "height": 256,
       "width": 214,
       "type": "png",
+      "dimensions": "214×256",
       "size": 3836
     },
     {
       "logo": "plex.tv.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -3233,8 +3527,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -3242,6 +3537,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 747
     },
     {
@@ -3249,6 +3545,7 @@
       "height": 256,
       "width": 256,
       "type": "png",
+      "dimensions": "256×256",
       "size": 4479
     },
     {
@@ -3256,6 +3553,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3263,6 +3561,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
@@ -3270,6 +3569,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -3291,11 +3591,12 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 12014
     },
     {
       "logo": "powerbot.org.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -3306,8 +3607,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -3315,6 +3617,7 @@
       "height": 78,
       "width": 150,
       "type": "png",
+      "dimensions": "150×78",
       "size": 6063
     },
     {
@@ -3322,6 +3625,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1069
     },
     {
@@ -3329,6 +3633,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 890
     },
     {
@@ -3336,6 +3641,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 15293
     },
     {
@@ -3343,6 +3649,7 @@
       "height": 48,
       "width": 48,
       "type": "png",
+      "dimensions": "48×48",
       "size": 1312
     },
     {
@@ -3350,6 +3657,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1353
     },
     {
@@ -3357,11 +3665,12 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
       "logo": "protemps.com.sg.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -3376,8 +3685,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -3385,6 +3695,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 378
     },
     {
@@ -3392,6 +3703,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -3399,6 +3711,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3406,6 +3719,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 258
     },
     {
@@ -3413,6 +3727,7 @@
       "height": 37,
       "width": 34,
       "type": "ico",
+      "dimensions": "34×37",
       "size": 5390
     },
     {
@@ -3420,6 +3735,7 @@
       "height": 256,
       "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 10689
     },
     {
@@ -3427,6 +3743,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 896
     },
     {
@@ -3434,6 +3751,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -3441,6 +3759,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 280
     },
     {
@@ -3448,6 +3767,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 504
     },
     {
@@ -3455,6 +3775,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -3462,11 +3783,12 @@
       "height": 64,
       "width": 64,
       "type": "png",
+      "dimensions": "64×64",
       "size": 3203
     },
     {
       "logo": "reincubate.com.png",
-      "height": 16,
+      "height": 256,
       "images": [
         {
           "height": 16,
@@ -3501,8 +3823,9 @@
           "width": 256
         }
       ],
-      "width": 16,
+      "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 194795
     },
     {
@@ -3510,6 +3833,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1073
     },
     {
@@ -3517,11 +3841,12 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
       "logo": "roll20.net.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -3536,8 +3861,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -3545,6 +3871,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -3552,6 +3879,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
@@ -3559,6 +3887,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
@@ -3566,6 +3895,7 @@
       "height": 48,
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 9662
     },
     {
@@ -3583,6 +3913,7 @@
       ],
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -3590,11 +3921,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
       "logo": "sephora.com.au.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -3609,8 +3941,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 7406
     },
     {
@@ -3618,6 +3951,7 @@
       "height": 15,
       "width": 15,
       "type": "ico",
+      "dimensions": "15×15",
       "size": 1022
     },
     {
@@ -3625,6 +3959,7 @@
       "height": 256,
       "width": 154,
       "type": "ico",
+      "dimensions": "154×256",
       "size": 162878
     },
     {
@@ -3632,6 +3967,7 @@
       "height": 128,
       "width": 128,
       "type": "png",
+      "dimensions": "128×128",
       "size": 24583
     },
     {
@@ -3639,6 +3975,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -3646,6 +3983,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 888
     },
     {
@@ -3653,6 +3991,7 @@
       "height": 48,
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 9663
     },
     {
@@ -3660,6 +3999,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3667,6 +4007,7 @@
       "height": 500,
       "width": 500,
       "type": "png",
+      "dimensions": "500×500",
       "size": 17091
     },
     {
@@ -3674,6 +4015,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1273
     },
     {
@@ -3681,6 +4023,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3688,6 +4031,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1697
     },
     {
@@ -3695,6 +4039,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3702,11 +4047,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
       "logo": "snapchat.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -3721,8 +4067,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -3730,6 +4077,7 @@
       "height": 256,
       "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 6891
     },
     {
@@ -3751,6 +4099,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -3776,6 +4125,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 13382
     },
     {
@@ -3783,6 +4133,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3800,6 +4151,7 @@
       ],
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5558
     },
     {
@@ -3821,6 +4173,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -3828,6 +4181,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3835,11 +4189,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 931
     },
     {
       "logo": "startribune.com.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -3850,8 +4205,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -3859,11 +4215,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
       "logo": "stockx.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -3878,13 +4235,14 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
       "logo": "storybird.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -3899,8 +4257,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -3908,6 +4267,7 @@
       "height": 27,
       "width": 25,
       "type": "png",
+      "dimensions": "25×27",
       "size": 2165
     },
     {
@@ -3915,6 +4275,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 296
     },
     {
@@ -3922,6 +4283,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -3929,11 +4291,12 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 468
     },
     {
       "logo": "strongholdkingdoms.com.png",
-      "height": 32,
+      "height": 256,
       "images": [
         {
           "height": 32,
@@ -3972,8 +4335,9 @@
           "width": 16
         }
       ],
-      "width": 32,
+      "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 116071
     },
     {
@@ -3981,11 +4345,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1406
     },
     {
       "logo": "sweclockers.com.png",
-      "height": 16,
+      "height": 64,
       "images": [
         {
           "height": 16,
@@ -4004,8 +4369,9 @@
           "width": 64
         }
       ],
-      "width": 16,
+      "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 32038
     },
     {
@@ -4013,6 +4379,7 @@
       "height": 72,
       "width": 72,
       "type": "png",
+      "dimensions": "72×72",
       "size": 2144
     },
     {
@@ -4020,11 +4387,12 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 237
     },
     {
       "logo": "technicpack.net.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -4039,8 +4407,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -4062,6 +4431,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -4069,6 +4439,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -4090,6 +4461,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -4097,6 +4469,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2384
     },
     {
@@ -4114,6 +4487,7 @@
       ],
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1598
     },
     {
@@ -4121,11 +4495,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1005
     },
     {
       "logo": "thingiverse.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -4140,8 +4515,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -4167,6 +4543,7 @@
       ],
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 32988
     },
     {
@@ -4174,6 +4551,7 @@
       "height": 144,
       "width": 144,
       "type": "png",
+      "dimensions": "144×144",
       "size": 5852
     },
     {
@@ -4181,6 +4559,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1238
     },
     {
@@ -4202,11 +4581,12 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
       "logo": "trillian.im.png",
-      "height": 48,
+      "height": 256,
       "images": [
         {
           "height": 48,
@@ -4237,8 +4617,9 @@
           "width": 16
         }
       ],
-      "width": 48,
+      "width": 256,
       "type": "ico",
+      "dimensions": "256×256",
       "size": 86225
     },
     {
@@ -4246,6 +4627,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 878
     },
     {
@@ -4253,6 +4635,7 @@
       "height": 196,
       "width": 196,
       "type": "png",
+      "dimensions": "196×196",
       "size": 5824
     },
     {
@@ -4260,6 +4643,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1974
     },
     {
@@ -4281,6 +4665,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -4288,6 +4673,7 @@
       "height": 21,
       "width": 21,
       "type": "png",
+      "dimensions": "21×21",
       "size": 564
     },
     {
@@ -4295,6 +4681,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 719
     },
     {
@@ -4302,6 +4689,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -4309,6 +4697,7 @@
       "height": 16,
       "width": 15,
       "type": "ico",
+      "dimensions": "15×16",
       "size": 1086
     },
     {
@@ -4316,11 +4705,12 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
       "logo": "universityofcalifornia.edu.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -4335,8 +4725,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -4344,6 +4735,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 2578
     },
     {
@@ -4365,6 +4757,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 7406
     },
     {
@@ -4372,6 +4765,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1689
     },
     {
@@ -4397,6 +4791,7 @@
       ],
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 32988
     },
     {
@@ -4404,11 +4799,12 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
       "logo": "vakinha.com.br.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -4419,8 +4815,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -4428,6 +4825,7 @@
       "height": 128,
       "width": 128,
       "type": "png",
+      "dimensions": "128×128",
       "size": 4785
     },
     {
@@ -4435,6 +4833,7 @@
       "height": 16,
       "width": 15,
       "type": "ico",
+      "dimensions": "15×16",
       "size": 1086
     },
     {
@@ -4442,6 +4841,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 19512
     },
     {
@@ -4449,6 +4849,7 @@
       "height": 33,
       "width": 33,
       "type": "png",
+      "dimensions": "33×33",
       "size": 189
     },
     {
@@ -4456,6 +4857,7 @@
       "height": 256,
       "width": 256,
       "type": "png",
+      "dimensions": "256×256",
       "size": 4944
     },
     {
@@ -4463,6 +4865,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 7712
     },
     {
@@ -4470,6 +4873,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 606
     },
     {
@@ -4491,6 +4895,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -4498,6 +4903,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 318
     },
     {
@@ -4505,6 +4911,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -4512,6 +4919,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -4519,6 +4927,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 763
     },
     {
@@ -4536,6 +4945,7 @@
       ],
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -4557,6 +4967,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -4578,6 +4989,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -4585,6 +4997,7 @@
       "height": 48,
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 1432
     },
     {
@@ -4592,6 +5005,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1491
     },
     {
@@ -4599,6 +5013,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 318
     },
     {
@@ -4606,6 +5021,7 @@
       "height": 64,
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 16958
     },
     {
@@ -4613,6 +5029,7 @@
       "height": 80,
       "width": 80,
       "type": "png",
+      "dimensions": "80×80",
       "size": 4119
     },
     {
@@ -4620,6 +5037,7 @@
       "height": 16,
       "width": 16,
       "type": "png",
+      "dimensions": "16×16",
       "size": 369
     },
     {
@@ -4641,6 +5059,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -4648,6 +5067,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -4655,11 +5075,12 @@
       "height": 150,
       "width": 150,
       "type": "png",
+      "dimensions": "150×150",
       "size": 5695
     },
     {
       "logo": "wptapl.com.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -4674,8 +5095,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 7886
     },
     {
@@ -4683,6 +5105,7 @@
       "height": 64,
       "width": 64,
       "type": "ico",
+      "dimensions": "64×64",
       "size": 16958
     },
     {
@@ -4690,6 +5113,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1287
     },
     {
@@ -4697,11 +5121,12 @@
       "height": 771,
       "width": 771,
       "type": "png",
+      "dimensions": "771×771",
       "size": 53408
     },
     {
       "logo": "xkcd.com.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -4712,13 +5137,14 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 2166
     },
     {
       "logo": "xpgamesaves.com.png",
-      "height": 16,
+      "height": 32,
       "images": [
         {
           "height": 16,
@@ -4729,8 +5155,9 @@
           "width": 32
         }
       ],
-      "width": 16,
+      "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 5430
     },
     {
@@ -4738,6 +5165,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -4745,6 +5173,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 2238
     },
     {
@@ -4752,6 +5181,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 318
     },
     {
@@ -4759,6 +5189,7 @@
       "height": 16,
       "width": 16,
       "type": "ico",
+      "dimensions": "16×16",
       "size": 1150
     },
     {
@@ -4766,11 +5197,12 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 722
     },
     {
       "logo": "younow.com.png",
-      "height": 16,
+      "height": 48,
       "images": [
         {
           "height": 16,
@@ -4785,8 +5217,9 @@
           "width": 48
         }
       ],
-      "width": 16,
+      "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15406
     },
     {
@@ -4794,6 +5227,7 @@
       "height": 32,
       "width": 32,
       "type": "ico",
+      "dimensions": "32×32",
       "size": 4286
     },
     {
@@ -4801,6 +5235,7 @@
       "height": 32,
       "width": 32,
       "type": "png",
+      "dimensions": "32×32",
       "size": 1568
     },
     {
@@ -4808,6 +5243,7 @@
       "height": 192,
       "width": 192,
       "type": "png",
+      "dimensions": "192×192",
       "size": 5260
     },
     {
@@ -4815,6 +5251,7 @@
       "height": 64,
       "width": 64,
       "type": "png",
+      "dimensions": "64×64",
       "size": 2401
     },
     {
@@ -4836,6 +5273,7 @@
       ],
       "width": 48,
       "type": "ico",
+      "dimensions": "48×48",
       "size": 15086
     },
     {
@@ -4843,6 +5281,7 @@
       "height": 100,
       "width": 109,
       "type": "png",
+      "dimensions": "109×100",
       "size": 2403
     }
   ],
